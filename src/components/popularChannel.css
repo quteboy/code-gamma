@@ -1,0 +1,49 @@
+
+
+.card-d {
+    width: 250px;
+    height: 200px;
+    
+}
+
+
+
+.card-deck {
+    padding-top: 20px;
+    padding-left: 35px;
+}
+
+.stamp2 {
+    float: right;
+    margin-top: 60px;
+    margin-right: -10px;
+    background-color: rgba(0, 0,0, 0.5)
+}
+
+.rating {
+    color: springgreen;
+}
+
+.watched {
+    background-color: steelblue;
+}
+
+.playlist {
+    background-color: mediumpurple;
+}
+
+.play {
+    background-color: mediumseagreen;
+    width: 150;
+    margin: 3px;
+    border-radius: 20px;
+    height: 20px;
+}
+
+.play2 {
+    background-color:mediumturquoise;
+    width: 150;
+    margin: 3px;
+    border-radius: 50px;
+    height: 20px;
+}

@@ -1,0 +1,38 @@
+
+
+
+.subs-3 {
+    height: 75px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    text-decoration-color: whitesmoke;
+    background-color: honeydew;
+    border-radius: 50%;
+    margin: 10px;
+    ;
+}
+
+.subs-7 {
+    
+     
+     background-color:red;
+     
+ }
+ .subs-9 {
+    
+     
+    background-color:royalblue;
+    
+}
+ .ddown2 {
+    float: inline-end;
+    margin-left: 150px ;
+
+}
+.help{
+    display: flex;
+    justify-content: space-between;
+}
+

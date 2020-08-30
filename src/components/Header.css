@@ -1,0 +1,33 @@
+.has-search .form-control {
+    padding-left: 2.375rem;
+}
+.main{
+    margin-left: 45px;
+    margin-right: 45px;
+}
+.has-search .form-control-feedback {
+    position: absolute;
+    z-index: 2;
+    display: block;
+    width: 2.375rem;
+    height: 2.375rem;
+    line-height: 2.375rem;
+    text-align: center;
+    pointer-events: none;
+    color: #aaa;
+}
+
+
+.search {
+    padding-left: 25px;
+    
+}
+
+.ddown {
+    float: inline-end;
+    margin-left: 150px ;
+
+}
+.secnav{
+    padding: 10px;
+}

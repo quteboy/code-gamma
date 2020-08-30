@@ -1,0 +1,57 @@
+
+
+.card-c {
+    width: 160px;
+    height: 200px;
+    
+}
+
+.channel{
+    background-color: mediumspringgreen;
+}
+
+
+.c-name {
+text-align: center;
+margin-top: 35px;
+
+}
+
+.watched-c {
+    background-color: darkslategray;
+}
+
+.pagination,
+.jsgrid .jsgrid-pager {
+    display: flex;
+    padding-left: 0;
+    list-style: none;
+    border-radius: 0.25rem
+}
+
+.page-link {
+    color: black
+}
+
+.pagination.pagination-rounded-flat .page-item {
+    margin: 0 .25rem
+}
+
+.pagination-rounded-flat {}
+
+.pagination-success .page-item.active .page-link,
+a {
+    background:darkgray;
+    border-color: grey;
+}
+
+.pagination.pagination-rounded-flat .page-item .page-link,
+a {
+    border: none;
+    border-radius: 50px
+}
+
+.pag {
+    padding-top: 15px;
+    
+}
